@@ -9625,6 +9625,10 @@ The meaning of the various properties and the format used are explained
           spinType="1" chargeType="24" colType="0" m0="14.899168"> 
 </particle> 
  
+<particle id="1000140270" name="27Al" antiName="27Albar" 
+          spinType="6" chargeType="42" colType="0" m0="25.133143"> 
+</particle> 
+ 
 <particle id="1000290630" name="63Cu" antiName="63Cubar" 
           spinType="2" chargeType="87" colType="0" m0="58.618646"> 
 </particle> 
